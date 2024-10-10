@@ -12,7 +12,7 @@ To write a program to implement the linear regression model with gradient descen
 1. You are given 4 input data points with 3 features each and a target value (y) for each poinT.
 2. Set theta = [0, 0, 0, 0] (4 coefficients for 3 features + intercept). Run gradient descent.  
 3. Calculate predictions, compute errors, and update theta iteratively. Make Predictions.
-4. After finding optimal theta, predict the value for any new data point.
+4. After finding optimal theta, predict the value for any new data point. 
 
 ## Program:
 ```
